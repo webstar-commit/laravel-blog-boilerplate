@@ -13,9 +13,6 @@
 <img src="https://user-images.githubusercontent.com/3679080/38768514-73a75d04-3ff5-11e8-8281-e366f58c0165.gif">
 </p>
 
-* Frontend demo : [https://laravel-boilerplate.okami101.io](https://laravel-boilerplate.okami101.io)
-* Backend demo : [https://laravel-boilerplate.okami101.io/admincp](https://laravel-boilerplate.okami101.io/admincp) (demo@example.com/demo, read-only)
-
 ## Features
 
 ### Frontend
