@@ -245,11 +245,3 @@ PHP is pre-configured for official Laravel styling, just launch `./vendor/bin/ph
 
 JS use [Prettier Standard Style](https://github.com/prettier/prettier/) & eslint-loader is used within webpack for dynamic code styling recommendations.  
 Moreover, [Official ESLint plugin for Vue.js](https://github.com/vuejs/eslint-plugin-vue) is included for heavy consistent code through all components vue files.
-
-## TODO
-
-* [ ] Inclusion of unit/featured/browser tests (stand by for now)
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://adr1enbe4udou1n.mit-license.org).
